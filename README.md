@@ -6,4 +6,6 @@ Remaining Useful Life (RUL) Prediction makes use of prediction methods or predic
 # Publication on Remaining Useful Life Prediction of Mechanical Bearings using Convolution Neural Network and Long Short Term Memory
 This research article focuses on predicting the Remaining Useful Life (RUL) of Mechanical Bearings. I along with my teammate developed a data-driven methodology that incorporates Continuous Wavelet Transform (CWT), Convolution Neural Network (CNN), and Long Short-Term Memory (LSTM) Network for Remaining Useful Life (RUL) prediction.
 
+# About the collected dataset
+
 # Implementation
