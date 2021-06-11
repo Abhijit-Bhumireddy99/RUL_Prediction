@@ -9,6 +9,8 @@ This research article focuses on predicting the Remaining Useful Life (RUL) of M
 http://gjstx-e.cn/gallery/64-may2021.pdf
 
 # About the collected dataset
-The collected dataset is the 
+The collected dataset is the PRONOSTIA Bearings Dataset (PHM IEEE 2012 Data Challenge Dataset). The collected dataset consists of 6 bearings learning or training datasets:
+
+
 
 # Implementation
