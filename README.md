@@ -13,14 +13,14 @@ The collected dataset is the PRONOSTIA Bearings Dataset (PHM IEEE 2012 Data Chal
 
 Bearing1_1 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Learning_set/Bearing1_1
 
-Bearing1_2 - https://drive.google.com/drive/folders/1oeWbxn4cJkilTu8f3RXI2DZlyfx9iJzP?usp=sharing
+Bearing1_2 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Learning_set/Bearing1_2
 
-Bearing2_1 - https://drive.google.com/drive/folders/1-xqLqEw8Cjgx8l3YzmGDx4pyPp1Xgabd?usp=sharing
+Bearing2_1 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Learning_set/Bearing2_1
 
-Bearing2_2 - https://drive.google.com/drive/folders/1x5saM891h_omC2I5VM5bQa1c-ImiKQ28?usp=sharing
+Bearing2_2 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Learning_set/Bearing2_2
 
-Bearing3_1 - https://drive.google.com/drive/folders/1SaU8f9jkLReDSoM0gETO9vBIxzkOxHNm?usp=sharing
+Bearing3_1 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Learning_set/Bearing3_1
 
-Bearing3_2 - https://drive.google.com/drive/folders/1dpj5dkRXws1mZxzb4c6Bhdbffq9FBJuu?usp=sharing
+Bearing3_2 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Learning_set/Bearing3_2
 
 # Implementation
