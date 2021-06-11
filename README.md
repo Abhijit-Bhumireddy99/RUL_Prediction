@@ -47,6 +47,8 @@ Bearing2_7 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tre
 
 Bearing3_3 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing3_3
 
+The datasets are run-to-failure experiments. Run-to-failure experiment means at first (at starting point) the bearings will be in healthy condition and eventually fails when progressing in time. In the dataset, for every 10 seconds, vibration signals are recorded for 0.1 seconds. The recorded signals are 1D raw vibration signals and these vibration signals are present only in time domain, contains only time domain information. Every data file present in datasets contains 2560 data points (horizontal and vertical acceleration vibration data points). The pronostia data is the time-series data. (Time-series data is a set of observations (data) usually collected at discrete and equally spaced time intervals). Here in the dataset, vibration signals are recorded at every 10 seconds (equal time intervals). Refer below link to understand more about the P dataset. 
+
 # Implementation
 Storing data into pickle files (data_pkz.ipynb)
 
