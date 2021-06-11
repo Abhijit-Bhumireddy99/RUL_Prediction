@@ -11,7 +11,7 @@ http://gjstx-e.cn/gallery/64-may2021.pdf
 # About the collected dataset
 The collected dataset is the PRONOSTIA Bearings Dataset (PHM IEEE 2012 Data Challenge Dataset). The collected dataset consists of 6 bearings learning or training datasets:
 
-Bearing1_1 - https://drive.google.com/drive/folders/1VhNkWkQKcns06hBI3h8FcJeqqdmIesKc?usp=sharing
+Bearing1_1 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Learning_set/Bearing1_1
 
 Bearing1_2 - https://drive.google.com/drive/folders/1oeWbxn4cJkilTu8f3RXI2DZlyfx9iJzP?usp=sharing
 
