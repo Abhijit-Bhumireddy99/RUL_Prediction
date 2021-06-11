@@ -39,4 +39,12 @@ Bearing2_3 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tre
 
 Bearing2_4 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing2_4
 
+Bearing2_5 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing2_5
+
+Bearing2_6 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing2_6
+
+Bearing2_7 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing2_7
+
+Bearing3_3 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing3_3
+
 # Implementation
