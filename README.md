@@ -48,3 +48,6 @@ Bearing2_7 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tre
 Bearing3_3 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing3_3
 
 # Implementation
+Storing data into pickle files (data_pkz.ipynb)
+
+Converted all the files of learning data set directories (Bearing1_1, Bearing1_2, Bearing2_1, Bearing2_2, Bearing3_1, Bearing3_2) into single combined pickle(.pkz) files(bearing1_1.pkz, bearing1_2.pkz, bearing2_1.pkz, bearing2_2.pkz, bearing3_1.pkz, bearing3_2.pkz) for easy data access and faster data retrieval.
