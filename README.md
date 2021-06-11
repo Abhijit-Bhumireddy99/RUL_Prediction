@@ -23,4 +23,20 @@ Bearing3_1 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tre
 
 Bearing3_2 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Learning_set/Bearing3_2
 
+The dataset also contains 11 bearings test datasets. The below test dataset links are taken from wkzs111 GitHub repository (https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset).
+
+Bearing1_3 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing1_3
+
+Bearing1_4 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing1_4
+
+Bearing1_5 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing1_5
+
+Bearing1_6 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing1_6
+
+Bearing1_7 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing1_7
+
+Bearing2_3 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing2_3
+
+Bearing2_4 - https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/tree/master/Test_set/Bearing2_4
+
 # Implementation
