@@ -64,4 +64,11 @@ Applied CWT on 1D signals and converted into normalized 2D features.
 
 https://colab.research.google.com/drive/1Vs6lfdhlK6wzIarCcm3Zh73FmPu0RIXA#scrollTo=jhvMoEJYKmiF
 
-(3)
+(3) Dataset and DataLoader for PyTorch (torch_Dataset_DataLoader.ipynb)
+
+PyTorch (or Torch) Dataset and DataLoader are used for easy accessing (retrieving, obtaining, acquiring, reading, examining) of data for machine learning and deep learning models. A lot of effort in solving any machine learning problem goes into preparing (preprocessing) the data. PyTorch provides many tools to make data loading (activation) easy (if data loading is easy, feeding the data into the model is easy), and to make the code more readable.
+
+DataLoader provides randomization for loading data during model training.
+
+https://colab.research.google.com/drive/14t8-k-jCs6fgiYYoHyEPeWb5rzUVv1m8#scrollTo=LlF8Xr3XmRuM
+
