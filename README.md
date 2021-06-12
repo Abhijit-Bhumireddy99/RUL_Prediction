@@ -72,3 +72,9 @@ DataLoader provides randomization for loading data during model training.
 
 https://colab.research.google.com/drive/14t8-k-jCs6fgiYYoHyEPeWb5rzUVv1m8#scrollTo=LlF8Xr3XmRuM
 
+(4) CNN model training (CNN_Model_Train.ipynb)
+
+Training CNN Model for fault probability prediction using PyTorch framework and validating or evaluating the model performance on all 6 learning datasets.
+
+https://colab.research.google.com/drive/1R-KQ6qK-R3x-0x8FjKrxbAENEqJzK1Xt#scrollTo=NaYgBdJYYYOt
+
