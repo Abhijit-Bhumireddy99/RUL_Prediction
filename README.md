@@ -84,4 +84,10 @@ LSTM expects data in sequences, so contiguous sequences from original data are p
 
 https://colab.research.google.com/drive/1a3dgJUOI3aa1ruHrPbFKs34sGxGKfWj5?authuser=0#scrollTo=4wiBn8-9gwHX
 
-(6)
+(6) CNN + LSTM model training (CNN+LSTM_Model_Train.ipynb)
+
+Training CNN + LSTM Model for fault probability prediction using PyTorch framework and validating or evaluating the model performance on all 6 learning datasets.
+
+https://colab.research.google.com/drive/10xwxceiUf5CwS8E9AWaozT0SyTjr4Hvf#scrollTo=FanPNsTNvSnt
+
+(7) 
