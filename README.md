@@ -78,3 +78,10 @@ Training CNN Model for fault probability prediction using PyTorch framework and 
 
 https://colab.research.google.com/drive/1R-KQ6qK-R3x-0x8FjKrxbAENEqJzK1Xt#scrollTo=NaYgBdJYYYOt
 
+(5) Packing data into sequences for CNN + LSTM model (CNN+LSTM_Dataset_Preparation.ipynb)
+
+LSTM expects data in sequences, so contiguous sequences from original data are packed together and loaded using torch Dataset and DataLoader.
+
+https://colab.research.google.com/drive/1a3dgJUOI3aa1ruHrPbFKs34sGxGKfWj5?authuser=0#scrollTo=4wiBn8-9gwHX
+
+(6)
