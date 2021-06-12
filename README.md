@@ -57,3 +57,11 @@ https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset/blob/master/IEEE
 Converted all the files of learning data set directories (Bearing1_1, Bearing1_2, Bearing2_1, Bearing2_2, Bearing3_1, Bearing3_2) into single combined pickle(.pkz) files(bearing1_1.pkz, bearing1_2.pkz, bearing2_1.pkz, bearing2_2.pkz, bearing3_1.pkz, bearing3_2.pkz) for easy data access and faster data retrieval.
 
 https://colab.research.google.com/drive/1KvPmQW-W0mrVwE8FFI2iHKwOs0llA8l5
+
+(2) Data Preprocessing and Signal Processing (DP_SP.ipynb)
+
+Applied CWT on 1D signals and converted into normalized 2D features.
+
+https://colab.research.google.com/drive/1Vs6lfdhlK6wzIarCcm3Zh73FmPu0RIXA#scrollTo=jhvMoEJYKmiF
+
+(3)
