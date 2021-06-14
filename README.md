@@ -96,3 +96,9 @@ Converted all the files of test data set directories (Bearing1_3, Bearing1_4, Be
 
 https://colab.research.google.com/drive/1Ka1xQjLUdWfvkB3fFIR3n6ea3meV3XH2?authuser=1
 
+(8) Data Preprocessing and Signal Processing on test data (Test_Dataset_Preparation.ipynb)
+
+Applied CWT on 1D signals and converted into normalized 2D features.
+
+https://colab.research.google.com/drive/1FEEby_GCyEBaR9qA1JdBSDU9NmfMg0fP#scrollTo=Ut7FZ1Wk1gRK
+
