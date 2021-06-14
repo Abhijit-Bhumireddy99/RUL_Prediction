@@ -94,4 +94,5 @@ https://colab.research.google.com/drive/10xwxceiUf5CwS8E9AWaozT0SyTjr4Hvf#scroll
 
 Converted all the files of test data set directories (Bearing1_3, Bearing1_4, Bearing1_5, Bearing1_6, Bearing1_7, Bearing2_3, Bearing2_4, Bearing2_5, Bearing2_6, Bearing2_7, Bearing3_3) into single combined pickle(.pkz) files(bearing1_3.pkz, bearing1_4.pkz, bearing1_5.pkz, bearing1_6.pkz, bearing1_7.pkz, bearing2_3.pkz, bearing2_4.pkz, bearing2_5.pkz, bearing2_6.pkz, bearing2_7.pkz, bearing3_3.pkz) for easy data access and faster data retrieval.
 
+https://colab.research.google.com/drive/1Ka1xQjLUdWfvkB3fFIR3n6ea3meV3XH2?authuser=1
 
